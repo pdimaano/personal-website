@@ -1,5 +1,7 @@
 body {
     background-color: #dceeef;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #4c565b
 }
 
 .navbar {
@@ -26,9 +28,19 @@ img {
 #intro {
     text-align: center;
     line-height: 50px;
-    color: #7a8d96
+}
+
+.page_content {
+    text-align: center;
+    margin-top: 150px;
+}
+
+p {
+    line-height: 30px;
 }
 
 #contact {
     list-style-type: none;
+    font-size: 22px;
+    line-height: 50px;
 }
